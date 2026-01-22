@@ -42,9 +42,17 @@ $$H^2 = \left( \frac{\dot{a}}{a} \right)^2 = \frac{8\pi G}{3} \rho \left[ \frac{
 * **Dynamique de Masse Effective** : Les anomalies de rotation galactique (Matière Noire) sont résolues par le gradient de force scalaire : $\vec{F} = -M_{\text{loc}} \vec{\nabla} f$.
 * **Thermodynamique d'État** : Une relation pression-densité couplée au champ : $P = \rho \left( \frac{df}{d\rho} - f \right)$.
 
-## 5. Le Lagrangien d'Unification
-La théorie dérive intégralement de la variation de l'Action de champ unifiée, liant géométrie et matière :
-$$S = \int d^4x \sqrt{-g} \left[ \frac{R}{16\pi G} + \mathcal{L}_M + \frac{1}{c^2} f(g_{\mu\nu}, \psi, A_\mu) \right]$$
+## 5. Le Lagrangien d'Unification (Action Totale)
+La théorie dérive intégralement de la variation de l'Action de champ unifiée. Cette formule lie la géométrie (Einstein), la matière (Standard) et le champ scalaire d'unité $f$ :
+
+$$S = \int d^4x \sqrt{-g} \left[ \frac{R}{16\pi G} + \mathcal{L}_m(\psi, A_\mu, f) + \frac{1}{c^2} \left( \frac{1}{2} g^{\mu\nu} \partial_\mu f \partial_\nu f - V(f) \right) \right]$$
+
+### Détails des termes :
+* **$R$** : Scalaire de courbure de Ricci (Gravitation classique).
+* **$\mathcal{L}_m$** : Densité lagrangienne de la matière, où le couplage avec $f$ assure la variation de la **masse** effective.
+* **$\partial_\mu f$** : Dérivée covariante du champ $f$, représentant sa dynamique spatio-temporelle.
+* **$V(f)$** : Potentiel d'auto-interaction du champ (lié à la constante cosmologique $\Lambda$).
+
 
 ---
 
