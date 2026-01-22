@@ -61,7 +61,6 @@ $$S = \int d^4x \sqrt{-g} \left[ \frac{R}{16\pi G} + \mathcal{L}_m(\psi, A_\mu, 
 2. **Résolution de la Tension de Hubble** : Réalignement des mesures de $H_0$ par l'intégration de la dynamique temporelle du champ.
 3. **Anomalies de propagation (Shapiro)** : Mesure des retards de signaux électromagnétiques influencés par la densité du champ scalaire.
 
----
-**Statut du Projet** : Cadre Théorique de Haut Niveau  
-**Auteur** : Confidentiel / Groupe de Recherche  
+---Theorie  
+**Auteur** :Jean-Etienne LEPOUTRE 
 **Année** : 2026
