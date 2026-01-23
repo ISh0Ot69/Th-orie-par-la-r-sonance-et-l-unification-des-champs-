@@ -64,3 +64,7 @@ $$S = \int d^4x \sqrt{-g} \left[ \frac{R}{16\pi G} + \mathcal{L}_m(\psi, A_\mu, 
 ---Theorie  
 **Auteur** :Jean-Etienne LEPOUTRE 
 **Année** : 2026
+|                         |
+|   TOUS DROITS RÉSERVÉS  |
+|   © [Jean-Etienne LEPOUTRE] [2026] |
+|_________________________|
